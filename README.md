@@ -21,13 +21,13 @@ Program ini adalah sistem informasi mahasiswa yang mengelola daftar nilai mahasi
 
 
 Berikut Hasilnya:
-
-
-Diagram Class:
-
-
-Flowchart:
-
+![alt text](https://github.com/ficzclay/praktikum8/blob/master/picture/1.png?raw=true)
+<br>
+Diagram Class:<br>
+![alt text](https://github.com/ficzclay/praktikum8/blob/master/picture/2.png?raw=true)
+<br>
+Flowchart:<br>
+![alt text](https://github.com/ficzclay/praktikum8/blob/master/picture/3.png?raw=true)
 
 ## Langkah-langkah pengerjaan latihan
 
